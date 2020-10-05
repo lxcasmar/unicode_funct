@@ -10,7 +10,10 @@ character in the string.
 Clone the repository (or simply download the project zip file) to wherever you want to the project on your computer. You will need to open the unicode_funct.ipynb file in an environment that supports Python notebooks. We recommend using JupyterLab or Binder to do so. Once the notebook is open, execute the code cell (shift + enter on JupyterLab). You will be prompted for a string and an integer. Input whatever string and integer you want, and the program will output the ASCII value for the character at the index in the string that was specified.
 
 # How to contribute
-
+In its current form, this function does not have very many applications. However, with the help of the open source community, this program can evolved and eventually be used for things like cryptography. 
+If you would like to contribute:
+First, fork this repository. Follow the installation guide. Instead of executing the code, feel free to edit it as you wish. Once you are done, save the .ipynb file. Execute the `git add .` and `git commit` commands in the command line to save your changes. To push your changes back to the copy of this repository you made use the `git push origin master` command. The command line will prompt for your GitHub username and password. Once you do this, go back to GitHub and create a pull request from this repository. We will review/compare the changes you made and decide whether to implement them
+Thank you for your contributions!
 
 # License
 This project is licensed under the MIT license, which allows anyone to use and distribute this project or forks of it as long as the original license is included. See license.md for further information.
