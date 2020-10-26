@@ -1,4 +1,4 @@
-## Program by Luis Castellano-Martin (Lab D) and Eric Anderson (Lab A)
+## Program by Luis Castellanos (Lab D) and Eric Anderson (Lab A)
 
 # Project description
 A program to accept any string `word` as an input and a positive integer `n` such that
